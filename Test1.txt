@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 1 111
 2 222
+=======
+1
+>>>>>>> parent of 3dab3a0... modified existing line
